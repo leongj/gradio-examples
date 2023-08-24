@@ -33,4 +33,6 @@ It's a great option for demos, especially when what you've been working on is a 
     - `pip install -r requirements.txt`
 
 3. Run the app:
-    - `gradio basic_qna.py`
+    - Basic Q&A: `gradio basic_qna.py`
+    OR
+    - Basic Chat: `gradio basic_chat.py`
